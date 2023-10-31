@@ -26,13 +26,13 @@ Loops run the same code multiple times unless their conditions are fullfilled.
 ### Conditional Statements
 Conditional Statements are the if-elif statements which run only when only when any of the given statement's conditions are met
 
-###CSV
+### CSV
 Functions like writerow are used to write into the CSV file created for backup of the result
 
-##Languages Used:
+## Languages Used:
 
-###Python
+### Python
 For the entire development
 
-###MySQL
+### MySQL
 For the MySQL statements within the dockcur.execute()
